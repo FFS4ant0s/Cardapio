@@ -1,30 +1,40 @@
-🍽️ Cardápio Digital
-Um sistema fullstack para digitalização de cardápios, desenvolvido com Vite + TypeScript no front-end e Spring Boot no back-end. O projeto permite que restaurantes e lanchonetes gerenciem seus produtos de forma prática e ofereçam uma experiência moderna para os clientes.
+# 🍽️ Cardápio Digital
 
-🚀 Tecnologias
-Frontend:
-⚡ Vite + React
-📝 TypeScript
-🎨 TailwindCSS
-Backend:
-🏗️ Spring Boot
-📦 Spring Data JPA
-🗄️ PostgreSQL
-🔥 Funcionalidades
-✅ Gerenciamento de produtos (pratos, bebidas, combos)
-✅ Interface responsiva e otimizada para mobile
-✅ Filtros e categorias para navegação fácil no cardápio
-✅ API REST para comunicação entre front-end e back-end
+Um sistema **fullstack** para digitalização de cardápios, desenvolvido com **Vite + TypeScript** no front-end e **Spring Boot** no back-end. O projeto permite que restaurantes e lanchonetes gerenciem seus produtos de forma prática e ofereçam uma experiência moderna para os clientes.
 
-📌 Como Rodar o Projeto
-Backend (Spring Boot)
-Clone o repositório e acesse a pasta do backend:
-sh
-Copiar
-Editar
-git clone https://github.com/seu-usuario/cardapio-digital.git
-cd cardapio-digital/backend
-Configure o banco de dados no application.properties
+---
+
+## 🚀 Tecnologias
+
+### **Frontend**  
+- ⚡ Vite + React  
+- 📝 TypeScript  
+- 🎨 TailwindCSS  
+
+### **Backend**  
+- 🏗️ Spring Boot  
+- 📦 Spring Data JPA  
+- 🗄️ PostgreSQL  
+
+---
+
+## 🔥 Funcionalidades  
+
+✅ Gerenciamento de produtos (pratos, bebidas, combos)  
+✅ Interface responsiva e otimizada para mobile  
+✅ Filtros e categorias para navegação fácil no cardápio  
+✅ API REST para comunicação entre front-end e back-end  
+
+---
+
+## 📌 Como Rodar o Projeto  
+
+### **Backend (Spring Boot)**  
+1. Clone o repositório e acesse a pasta do backend:  
+   ```sh
+   git clone https://github.com/seu-usuario/cardapio-digital.git
+   cd cardapio-digital/backend
+Configure o banco de dados no application.properties.
 Execute o projeto:
 sh
 Copiar
